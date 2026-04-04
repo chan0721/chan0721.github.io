@@ -1,11 +1,11 @@
 ---
 layout: page
 title: 天体物理学习
-permalink: /physics/
+permalink: /astrophy/
 ---
 
 <div class="post-list">
-  {% for post in site.tags.astrophysics %}
+  {% for post in site.tags.astrophy %}
     <div class="post-list-item">
       <h2 class="post-list-title">
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
