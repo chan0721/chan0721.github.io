@@ -21,8 +21,8 @@ author: chan0721
 ###############################################
 
 navbar-links:
-  About Me: "关于我"
-  Resources:
+  关于我："aboutme"
+  相关链接:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
 
