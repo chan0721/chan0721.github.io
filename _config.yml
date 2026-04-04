@@ -28,20 +28,20 @@ navbar-links:
     - 数学: "/_posts/math/"
     - 天体物理: "/_posts/astrophy/"
   相关链接:
-    - 我的个人课堂笔记: 
-      - 星际介质物理: "https://github.com/chan0721/ISM-Notes"
-      - 计算物理B: "https://github.com/chan0721/computational-physics-notes"
-    - 数学物理讲义网站:
-      - David Tong: "https://www.damtp.cam.ac.uk/user/tong/teaching.html"
-      - Feynman lecture notes: "https://www.feynmanlectures.caltech.edu/"
-      - SciPost: "https://scipost.org/SciPostPhysLectNotes"
-      - Wolfram Mathworld: "https://mathworld.wolfram.com/"
-      - MurPhy's MHD lectures: "https://lweb.cfa.harvard.edu/~namurphy/teaching.html"
-    - ACGN相关网站: 
-      - BBS导航站: "https://bbs.pku.edu.cn/v2/post-read-single.php?bid=108&type=0&postid=25939170"
-      - Touchgal: "https://www.touchgal.io/"
-      - 动漫花园: "https://dmhy.myheartsite.com/"
-      - 2DFan: "https://2dfan.com/"
+    - "我的个人课堂笔记"
+    - 星际介质物理: "https://github.com/chan0721/ISM-Notes"
+    - 计算物理B: "https://github.com/chan0721/computational-physics-notes"
+    - "数学物理讲义网站"
+    - David Tong: "https://www.damtp.cam.ac.uk/user/tong/teaching.html"
+    - Feynman lecture notes: "https://www.feynmanlectures.caltech.edu/"
+    - SciPost: "https://scipost.org/SciPostPhysLectNotes"
+    - Wolfram Mathworld: "https://mathworld.wolfram.com/"
+    - MurPhy's MHD lectures: "https://lweb.cfa.harvard.edu/~namurphy/teaching.html"
+    - "ACGN相关网站" 
+    - BBS导航站: "https://bbs.pku.edu.cn/v2/post-read-single.php?bid=108&type=0&postid=25939170"
+    - Touchgal: "https://www.touchgal.io/"
+    - 动漫花园: "https://dmhy.myheartsite.com/"
+    - 2DFan: "https://2dfan.com/"
 
 ################
 # --- Logo --- #
