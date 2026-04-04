@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 数学学习
-permalink: /physics/
+permalink: /math/
 ---
 
 <div class="post-list">
