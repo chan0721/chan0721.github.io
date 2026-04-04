@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 物理文章
+title: 物理学习
 permalink: /physics/
 ---
 
-<h1>物理文章</h1>
+<h1>物理学习</h1>
 
 <ul>
   {% for post in site.categories.physics %}
