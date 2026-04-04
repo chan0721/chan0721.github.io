@@ -21,7 +21,7 @@ author: chan0721
 ###############################################
 
 navbar-links:
-  关于我："aboutme"
+  关于我："aboutme.md"
   相关链接:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -127,7 +127,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "chan0721,homepage"
 
 ######################################
 # --- Colours / background image --- #
@@ -259,7 +259,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "China/Beijing"
+# timezone: "China/Beijing"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
