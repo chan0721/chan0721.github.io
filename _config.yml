@@ -21,8 +21,9 @@ author: chan0721
 ###############################################
 
 navbar-links:
+  主页: "https://chan0721.github.io"
   关于我: "aboutme"
-  随笔: "/_posts/chan_journal/"
+  随笔: "/journal/"
   数理学习: 
     - 物理: "/physics/"
     - 数学: "/math/"
