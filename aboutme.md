@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: 关于chan0721
+subtitle: 这个人不喜欢格言名句，于是什么都不想放在这
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+看到这一页的你，想必是在哪见到我并且对我有些兴趣所以点进来的吧，不要小看我的情报网啊.jpg。
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+好了不说废话了，作个简单的自我介绍：我现在是某985大学物理系的本科生，主要感兴趣的研究方向是天体物理，但是天体物理这个领域太大了研究生到底要做什么还没有彻底想好。我对数学，文学，哲学和ACGN都有比较强烈的兴趣，反而学了三年物理之后对物理没什么兴趣了（bushi）。我的这个主页会发布很多我在专业学习上的笔记，在兴趣爱好领域的随笔/锐评，以及有可能会搬运一些我觉得非常好的文章过来，我的所有的帖子都仅供自我督促和自我满足之用，如果你看到了不妨当个乐子看好了。
 
-What else do you need?
+---手动分割线---
 
-### My story
+最近推完借恋很喜欢八纯，但是pixiv和x上居然没什么人画图，毫无艺术细胞的我又不可能自己产粮，我为自己的无能而悲愤.jpg
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
