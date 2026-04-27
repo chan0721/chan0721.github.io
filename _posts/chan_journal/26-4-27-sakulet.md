@@ -130,7 +130,6 @@ tags: [journal]
 
 <h2><strong>所长最后的一封信</strong></h2>
 
-<img src="/assets/img/suozhang2.png" alt="suozhang2" title="所长最后的一封信" />
 
 所长的最后一封信实在是太感人了放在结尾真是杀人诛心啊，尤其是看到落款2002年的时候感觉心都要碎了😭，所长啊，我的所长啊😭
 
