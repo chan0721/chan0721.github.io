@@ -547,6 +547,7 @@ footer .footer-custom-content {
   margin: 0 auto 1.25rem;
   height: auto;
   width: 100%;
+  padding-top: 1.25rem
   max-height: 20rem;
   object-fit: cover;
   display: block;
