@@ -2,9 +2,9 @@
 layout: page
 title: 关于chan0721
 subtitle: 努力的意义在于未来某天回想到今日时不会感到后悔
-cover-img: /assets/img/aboutme.png
 ---
 
+<img src="/assets/img/aboutme.png">
 
 看到这一页的你，想必是在哪见到我并且对我有些兴趣所以点进来的吧，不要小看我的情报网啊.jpg。
 
