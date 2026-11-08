@@ -1,13 +1,16 @@
 {% if site.utterances.repository and site.utterances.issue-term  %}
-
+<section class="comments" aria-labelledby="comments-heading">
+  <h2 id="comments-heading">评论与交流</h2>
+  <p class="text-muted">欢迎分享你的阅读感受。登录 GitHub 后即可评论，也可以在 <a href="https://github.com/{{ site.utterances.repository }}/issues?q={{ page.url | url_encode }}" target="_blank" rel="noopener noreferrer">GitHub 上参与讨论</a>。</p>
 <script src="https://utteranc.es/client.js"
         repo="{{ site.utterances.repository }}"
         issue-term="{{ site.utterances.issue-term }}"
         theme="{{ site.utterances.theme}}"
-        label="{{ site.utterances.label}}"
+        {% if site.utterances.label %}label="{{ site.utterances.label }}"{% endif %}
         crossorigin="anonymous"
         async>
 </script>
-
+  <noscript>请启用 JavaScript 查看评论，或<a href="https://github.com/{{ site.utterances.repository }}/issues?q={{ page.url | url_encode }}">前往 GitHub 参与讨论</a>。</noscript>
+</section>
 {% endif %}
 

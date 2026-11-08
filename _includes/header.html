@@ -1,6 +1,6 @@
 {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
 
-{% if page.cover-img %}
+{% if page.cover-img and page.cover-display != "inline" %}
   <div id="header-big-imgs" data-num-img={% if page.cover-img.first %}{{ page.cover-img.size }}{% else %}1{% endif %}
     {% for bigimg in page.cover-img %}
     {% assign imgnum = forloop.index %}
@@ -16,8 +16,8 @@
   ></div>
 {% endif %}
 
-<header class="header-section {% if page.cover-img %}has-img{% endif %}">
-<div class="intro-header {% if page.cover-img %} big-img {% endif %}">
+<header class="header-section {% if page.cover-img and page.cover-display != 'inline' %}has-img{% endif %}">
+<div class="intro-header {% if page.cover-img and page.cover-display != 'inline' %} big-img {% endif %}">
   {% if page.cover-img or page.title %}
   <div class="container-md">
     <div class="row">
@@ -53,8 +53,14 @@
     </div>
   </div>
   {% endif %}
-  {% if page.cover-img %}<span class='img-desc'></span>{% endif %}
+  {% if page.cover-img and page.cover-display != "inline" %}<span class='img-desc'></span>{% endif %}
 </div>
+
+{% if page.cover-img and page.cover-display == "inline" %}
+  <figure class="post-cover-inline">
+    <img src="{{ page.cover-img | relative_url }}" alt="{{ page.cover-alt | default: page.title | escape }}" width="{{ page.cover-width }}" height="{{ page.cover-height }}" decoding="async">
+  </figure>
+{% endif %}
 
 {% if page.header-extra %}
   {% for file in page.header-extra %}
