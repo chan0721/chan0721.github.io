@@ -31,6 +31,7 @@ navbar-links:
     - 天体物理: "/astrophy/"
   课堂笔记:
     - 星际介质物理: "https://github.com/chan0721/ISM-Notes"
+    - 高性能计算入门: "https://github.com/chan0721/intro-to-HPC-notes"
     - 计算物理B: "https://github.com/chan0721/computational-physics-notes"
 
 
